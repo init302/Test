@@ -8,6 +8,7 @@ public class Test : MonoBehaviour
     void Start()
     {
         Debug.Log("dd");
+        Debug.Log("YKS");
     }
 
     // Update is called once per frame
